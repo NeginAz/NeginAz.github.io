@@ -11,7 +11,6 @@
 
 # Name of website
 title: My Portfolio
-
 # Your name to show in the footer
 author: Negin Azizi
 
@@ -30,7 +29,7 @@ navbar-links:
    #- Beautiful Jekyll: "https://beautifuljekyll.com"
    - Robotic Application Interface: "learningdisability"
    - Interactive Games: "SLT"
-   - Collabrative Game: "play"
+   - Collaborative Game: "play"
    - Roobtic Physical Game: "play_children" 
    - Optical Character Recognition for old hand writings: "OCR"
    #- Learn markdown: "https://www.markdowntutorial.com/"
