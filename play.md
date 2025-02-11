@@ -70,7 +70,8 @@ title: Collaborative Game Through A Robot Play Mediator
 - Coordination vs. Task Sharing: In the fusion condition, participants were required to coordinate their actions, resulting in more collaborative behavior compared to the shared condition, where they each controlled separate tasks.
 - Engagement and Collaboration: Participants showed higher levels of engagement in the fusion condition, indicated by heart rate changes and more synchronized actions.
 - Successful Play Mediation: The robot effectively mediated play, helping participants engage in collaborative tasks, and demonstrated the potential to support children with upper-limb disabilities in social play.
-<div style="display: flex; justify-content: center; width: 100%; gap: 100px;">
+
+<div style="display: flex; justify-content: center; width: 100%; gap: 100px; margin-bottom: 50px;">
     <img src="https://github.com/user-attachments/assets/efe947d5-8158-420b-a5c2-0175711f36b4" 
          style="width: 100%; max-width: 1000px; height: auto;">
 </div>
