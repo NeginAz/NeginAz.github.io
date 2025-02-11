@@ -48,6 +48,12 @@ title: Interactive Robotic Activities for Children with Learning Disabilities
          style="height: 300px; max-width: 100%; display: block;">
 </div>
 
+### System Architecture: 
+
+<div style="display: flex; justify-content: center; width: 100%;">
+    <img src="https://github.com/user-attachments/assets/cfbbce11-2443-446f-9f81-3869477285bc" 
+         style="height: 300px; max-width: 100%; display: block;">
+</div>
 
  
  <h4>Games and Application</h4>
@@ -63,12 +69,7 @@ title: Interactive Robotic Activities for Children with Learning Disabilities
   </div>
 
 
-<h4>System Architecture</h4>
- <center>
- <div class = "column">
-    <img src="https://github.com/user-attachments/assets/cfbbce11-2443-446f-9f81-3869477285bc" height = "300" position = "relative" align ="center">
- </div>
- </center>
+
 
  <h4>Interactive Games</h4>
 
