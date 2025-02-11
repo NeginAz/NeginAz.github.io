@@ -27,7 +27,7 @@ title: Interactive Robotic Activities for Children with Learning Disabilities
 - Instructors' Feedback: Qualitative data collected from instructors regarding their perceptions of the robot’s effectiveness and student engagement.
 - Mood Reflection: Students reflected their mood using a worksheet at the beginning and end of each session.
 
-<h4> Data Analysis </h4>
+### Data Analysis: 
 <h5> Quantitative Analysis:</h5>
 
 - Comparison of on-task behavior and task completion between the traditional "Instruction As Usual" (IAU) sessions and "Robot-Mediated Instruction" (RMI) sessions.
@@ -38,11 +38,10 @@ title: Interactive Robotic Activities for Children with Learning Disabilities
 - Instructor feedback on robot intervention, including ease of use, effectiveness, and student response.
 - Analysis of the types of off-task behaviors exhibited by students and preferred redirection strategies.
 
- <center>
- <div class = "column">
-    <img src="https://github.com/user-attachments/assets/ae23b563-cc42-4e92-b894-d3900f990dd3" height = "300" position = "relative" align ="center">
- </div>
- </center>
+<div style="display: flex; justify-content: center; width: 100%;">
+    <img src="https://github.com/user-attachments/assets/ae23b563-cc42-4e92-b894-d3900f990dd3" 
+         style="height: 300px; max-width: 100%; display: block;">
+</div>
 
 
  <center>
@@ -50,7 +49,6 @@ title: Interactive Robotic Activities for Children with Learning Disabilities
     <img src="https://github.com/user-attachments/assets/520afd6b-e0b6-4697-ab85-b6f7a2efb9a7" height = "300" position = "relative" align ="center">
  </div>
  </center>
-
 
  
  <h4>Games and Application</h4>
