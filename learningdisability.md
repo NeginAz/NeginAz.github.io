@@ -56,7 +56,7 @@ title: Interactive Robotic Activities for Children with Learning Disabilities
 </div>
 
  
- <h4>Games and Application</h4>
+ <h4>Interactive Games and Application</h4>
 
 <div style="display: flex; justify-content: center; width: 100%;">
     <img src="https://github.com/user-attachments/assets/0e221614-1069-4e08-87e3-f8efe57bdb28" 
@@ -65,21 +65,12 @@ title: Interactive Robotic Activities for Children with Learning Disabilities
          style="width: 50%; height: auto;">
 </div>
 
-
-
-
-
- <h4>Interactive Games</h4>
-
-  <div class ="row">
-  <div class="column">
-   <img src="https://github.com/user-attachments/assets/ff80d312-6e70-4f68-ba1d-c009ad447b59" height="220" position= "relative">
-  </div>
-  <div class="column">
-   <img src="https://github.com/user-attachments/assets/1923af63-b797-4a13-85bf-7cf44d70f90b" height="220" position= "relative">
-  </div>
-  </div>
-
+<div style="display: flex; justify-content: center; width: 100%;">
+    <img src="https://github.com/user-attachments/assets/ff80d312-6e70-4f68-ba1d-c009ad447b59" 
+         style="width: 50%; height: auto;">
+    <img src="https://github.com/user-attachments/assets/1923af63-b797-4a13-85bf-7cf44d70f90b" 
+         style="width: 50%; height: auto;">
+</div>
 
 
 ### Publications: 
