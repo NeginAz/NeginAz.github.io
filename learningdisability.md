@@ -36,8 +36,11 @@ title: Interactive Robotic Activities for Children with Learning Disabilities
  </center>
 
 
-
-   <img src ="https://github.com/user-attachments/assets/520afd6b-e0b6-4697-ab85-b6f7a2efb9a7" height="250" position ="relative">
+ <center>
+ <div class = "column">
+    <img src="https://github.com/user-attachments/assets/520afd6b-e0b6-4697-ab85-b6f7a2efb9a7" height = "300" position = "relative" align ="center">
+ </div>
+ </center>
 
 
  <h4>Setting</h4>
