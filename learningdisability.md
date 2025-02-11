@@ -12,10 +12,13 @@ title: Interactive Robotic Activities for Children with Learning Disabilities
 
 <h4>Setting</h4>
 
-<div style="display: flex; justify-content: center; gap: 20px;">
-    <img src="https://github.com/user-attachments/assets/4013a3f5-7707-44d1-a8cd-a58cc5d8340b" height="200">
-    <img src="https://github.com/user-attachments/assets/084e0210-d601-47b2-b98e-ee2bbe256f4a" height="200">
+<div style="display: flex; justify-content: center; width: 100%; max-width: 100%;">
+    <img src="https://github.com/user-attachments/assets/4013a3f5-7707-44d1-a8cd-a58cc5d8340b" 
+         style="width: 50%; max-width: 600px; height: auto;">
+    <img src="https://github.com/user-attachments/assets/084e0210-d601-47b2-b98e-ee2bbe256f4a" 
+         style="width: 50%; max-width: 600px; height: auto;">
 </div>
+
 
 
 <h4> Data Sources</h4>
