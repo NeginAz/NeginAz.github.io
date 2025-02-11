@@ -2,13 +2,13 @@
 title: Interactive Robotic Activities for Children with Learning Disabilities
 ---
 ### Description: 
-- Partnered with [Learning Disabilities Society](https://ldsociety.ca)
-- Children with learning disabilities often struggle to maintain focus on their tasks
-- Designed, and implemented a robotic system to help instructors keep the students engaged
-- The robot provides strategies such as breathing exercises, and games 
-- Developed a user-friendly interface solution on the tablet 
-- The robot made a positive impression on both students and instructors and improved students' engagement rate
-- Children played games with the robot through a tablet
+- Partnered with [Learning Disabilities Society](https://ldsociety.ca) to develop a robotic system for children with learning disabilities.  
+- Designed and implemented a robot to help instructors keep students engaged.  
+- Integrated focus-enhancing strategies like breathing exercises and interactive games.  
+- Developed a user-friendly tablet interface for seamless interaction.  
+- The robot improved student engagement and left a positive impression on both students and instructors.  
+- Children interacted with the robot through games on the tablet.  
+
 
 <h4>Setting</h4>
 
