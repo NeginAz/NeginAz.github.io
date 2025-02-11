@@ -10,6 +10,17 @@ title: Interactive Robotic Activities for Children with Learning Disabilities
 - The robot made a positive impression on both students and instructors and improved students' engagement rate
 - Children played games with the robot through a tablet
 
+<h4>Setting</h4>
+ <center>
+<div class="row">
+  <div class="column">
+   <img src ="https://github.com/user-attachments/assets/4013a3f5-7707-44d1-a8cd-a58cc5d8340b" height="250" position ="relative">
+  </div>
+  <div class="column">
+   <img src="https://github.com/user-attachments/assets/084e0210-d601-47b2-b98e-ee2bbe256f4a" height="250" position= "relative">
+  </div>
+  </div>
+
 
 <h4> Data Sources</h4>
 
@@ -43,18 +54,7 @@ title: Interactive Robotic Activities for Children with Learning Disabilities
  </center>
 
 
- <h4>Setting</h4>
-
-<div class="row">
-  <div class="column">
-   <img src ="https://github.com/user-attachments/assets/4013a3f5-7707-44d1-a8cd-a58cc5d8340b" height="200" position ="relative">
-  </div>
-  <div class="column">
-   <img src="https://github.com/user-attachments/assets/084e0210-d601-47b2-b98e-ee2bbe256f4a" height="200" position= "relative">
-  </div>
-  </div>
-
-
+ 
  <h4>Games and Application</h4>
 
 
