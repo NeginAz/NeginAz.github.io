@@ -12,17 +12,15 @@ title: Collaborative Game Through A Robot Play Mediator
 - Initially, children with upper-limb disorders were the target group. However, due to Covid-19 restrictions, university students were recruited as participants to collect preliminary data.
 - Two Participants per Session: Participants played collaborative games with the robot, each controlling part of the robot’s movement.
 
+
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-    <div style="width: 48%; text-align: center;">
-        <img src="https://github.com/user-attachments/assets/96c6c0d9-e27e-4595-8a63-d87269369a54" 
-             style="width: 100%; max-width: 400px; height: auto;">
-    </div>
-    <div style="width: 48%; text-align: center;">
-        <h4>Settings</h4>
-        <img src="https://github.com/user-attachments/assets/25faedae-5f69-44a8-a7ef-1f68107e2070" 
-             style="width: 100%; max-width: 400px; height: auto;">
-    </div>
+    <img src="https://github.com/user-attachments/assets/96c6c0d9-e27e-4595-8a63-d87269369a54" 
+         style="width: 48%; max-width: 400px; height: auto;">
+    
+    <img src="https://github.com/user-attachments/assets/25faedae-5f69-44a8-a7ef-1f68107e2070" 
+         style="width: 48%; max-width: 400px; height: auto;">
 </div>
+
 
 
 
