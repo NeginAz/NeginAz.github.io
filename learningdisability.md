@@ -10,7 +10,7 @@ title: Interactive Robotic Activities for Children with Learning Disabilities
 - Children interacted with the robot through games on the tablet.  
 
 
-<h4>Setting</h4>
+### Setting:
 
 <div style="display: flex; justify-content: center; width: 100%; max-width: 100%;">
     <img src="https://github.com/user-attachments/assets/4013a3f5-7707-44d1-a8cd-a58cc5d8340b" 
@@ -20,8 +20,7 @@ title: Interactive Robotic Activities for Children with Learning Disabilities
 </div>
 
 
-
-<h4> Data Sources</h4>
+### Data Sources: 
 
 - Behavioral Data: Observations of on-task and off-task behaviors during sessions.
 - Engagement Metrics: Tracking student engagement through task completion, redirection strategies (RS), and mood reflections.
