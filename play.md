@@ -64,9 +64,11 @@ title: Collaborative Game Through A Robot Play Mediator
          style="width: 48%; max-width: 100%; height: auto;">
 </div>
 
+<div style="display: flex; justify-content: center; width: 100%;">
+    <img src="https://github.com/user-attachments/assets/efe947d5-8158-420b-a5c2-0175711f36b4" 
+         style="width: 100%; max-width: 1000px; height: auto;">
+</div>
 
-<img src="https://github.com/user-attachments/assets/efe947d5-8158-420b-a5c2-0175711f36b4" width = "400" position = "relative" align ="center">
-<br> 
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
     <img src="https://github.com/user-attachments/assets/201bcbe6-b5ff-40c9-bdb5-01e1bfde99fc" 
          style="width: 48%; max-width: 100%; height: auto;">
