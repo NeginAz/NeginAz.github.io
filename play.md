@@ -50,21 +50,21 @@ title: Collaborative Game Through A Robot Play Mediator
 - Behavioral Events: Observed and categorized different types of interactions between players, such as joint action and turn-taking, to assess the impact of collaboration strategies on gameplay.
 
 
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;gap: 40px;">
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;gap: 100px;">
     <img src="https://github.com/user-attachments/assets/bdf459ed-7149-4581-8427-e8158019990c" 
          style="width: 48%; max-width: 100%; height: auto;">
     <img src="https://github.com/user-attachments/assets/ce3ddf9b-29d6-47f5-b0a1-e7d71f56a23e" 
          style="width: 48%; max-width: 100%; height: auto;">
 </div>
 
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;gap: 40px;">
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;gap: 100px;">
     <img src="https://github.com/user-attachments/assets/722b4add-c158-4be9-bb61-f0e8869e8884" 
          style="width: 48%; max-width: 100%; height: auto;">
     <img src="https://github.com/user-attachments/assets/363aeeda-3fcf-4eb8-86f7-e8848279bb60" 
          style="width: 48%; max-width: 100%; height: auto;">
 </div>
 
-<div style="display: flex; justify-content: center; width: 100%; gap: 40px;">
+<div style="display: flex; justify-content: center; width: 100%; gap: 100px;">
     <img src="https://github.com/user-attachments/assets/efe947d5-8158-420b-a5c2-0175711f36b4" 
          style="width: 100%; max-width: 1000px; height: auto;">
 </div>
