@@ -38,16 +38,16 @@ For better classification performance, the dataset was created as images with a 
 Various algorithms were used for character classification, but ultimately the images were classified using a CNN (Convolutional Neural Network).
 Then, based on locating the coordinates of the page contours, the characters in the text images are identified and translated.
 
-  <div style="display: flex; justify-content: center; width: 100%;">
+  <div style="display: flex; justify-content: center;">
     <img src="https://github.com/user-attachments/assets/892cb9c1-c83f-43a2-8c28-0e1f6f238f04" 
-         style="width: 100%; max-width: 1000px; height: auto;">
+         style="height: auto;">
 </div>
 
 By classifying the characters using the designed network, an accuracy of 80% was achieved on the test samples.
 
 <div style="display: flex; justify-content: center; width: 100%;">
     <img src="https://github.com/user-attachments/assets/2e5ff432-e57e-4f12-80c9-a03928406e89" 
-         style="width: 100%; max-width: 1000px; height: auto;">
+         style="height: auto;">
 </div>
 
 
