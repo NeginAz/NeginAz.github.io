@@ -86,5 +86,97 @@ subtitle:
             }
         }
     </script>
+
+
+
+
+<style>
+    .skills-container {
+        text-align: center;
+        cursor: pointer;
+        position: relative;
+        width: 100%;
+        max-width: 400px;
+        margin: auto;
+    }
+
+    .skills-image {
+        width: 100px;
+        height: 100px;
+        transition: transform 0.3s ease;
+    }
+
+    .skills-image:hover {
+        transform: scale(1.1);
+    }
+
+    .skills-list {
+        list-style: none;
+        padding: 10px;
+        background: rgba(0, 0, 0, 0.8);
+        color: white;
+        border-radius: 10px;
+        position: absolute;
+        top: 120%;
+        left: 50%;
+        transform: translateX(-50%);
+        width: max-content;
+        display: none;
+        opacity: 0;
+        transition: opacity 0.3s ease, transform 0.3s ease;
+    }
+
+    .skills-list li {
+        padding: 5px 10px;
+        font-size: 16px;
+        display: flex;
+        align-items: center;
+        gap: 10px;
+    }
+
+    .skills-list li::before {
+        content: "✓"; /* You can replace this with an icon */
+        color: limegreen;
+        font-size: 18px;
+    }
+
+    .show-skills {
+        display: block;
+        opacity: 1;
+        transform: translateX(-50%) translateY(10px);
+    }
+</style>
+
+<div class="skills-container" onclick="toggleSkills()">
+    <img 
+        src="/assets/img/skills.jpeg" 
+        alt="Skills Icon" 
+        class="skills-image"
+    >
+    <ul class="skills-list" id="skillsList">
+        <li>🤖 Robotics Development</li>
+        <li>🧠 Artificial Intelligence</li>
+        <li>📊 Machine Learning</li>
+        <li>🐍 Python Programming</li>
+        <li>⚙️ ROS (Robot Operating System)</li>
+        <li>🔌 Embedded Systems</li>
+        <li>📈 Data Analysis</li>
+        <li>👀 Computer Vision</li>
+    </ul>
+</div>
+
+<script>
+    function toggleSkills() {
+        const skillsList = document.getElementById('skillsList');
+        skillsList.classList.toggle('show-skills');
+    }
+</script>
+
+
+
+
+    
+
+    
 </body>
 </html>
