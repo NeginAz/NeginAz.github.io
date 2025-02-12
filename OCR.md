@@ -20,6 +20,12 @@ title: Optical Character Recognition for old writings
 
 - Applied data augmentation techniques (rotation, scaling, translation) using OpenCV to increase dataset size and improve model generalization.
 - Generated synthetic data with Autoencoders to create variations of existing characters, enhancing the dataset and mitigating class imbalance.
+
+  <div style="display: flex; justify-content: center; width: 100%;">
+    <img src="https://github.com/user-attachments/assets/9dc0674e-1b45-42f7-98b5-c04e256c5a18" 
+         style="width: 100%; max-width: 1000px; height: auto;">
+</div>
+
 - Designed and implemented Convolutional Neural Networks (CNN) using TensorFlow/Keras to classify cuneiform characters, optimizing architecture for image recognition tasks.
 - Leveraged transfer learning with pre-trained models to boost classification accuracy, adapting models trained on standard datasets to cuneiform character recognition.
 - Applied Multi-Layer Perceptron (MLP) networks for character classification and compared their performance with CNN models for baseline evaluation.
@@ -31,11 +37,7 @@ title: Optical Character Recognition for old writings
 
 For better classification performance, the dataset was created as images with a black background. Then, similar samples of each character were generated using autoencoders.
 
-  <center>
- <div class = "column">
-    <img src="https://github.com/user-attachments/assets/9dc0674e-1b45-42f7-98b5-c04e256c5a18" width = "400" position = "relative" align ="center">
- </div>
- </center>
+
 
 Various algorithms were used for character classification, but ultimately the images were classified using a CNN (Convolutional Neural Network).
 
