@@ -24,12 +24,11 @@ title: Optical Character Recognition for old writings
 - Evaluated model performance using metrics such as accuracy, confusion matrices, and loss curves to refine models and identify areas for improvement.
 - Developed a complete translation pipeline that integrated character detection and classification to convert ancient Persian cuneiform into modern Persian text.
 
+<div style="display: flex; justify-content: center; width: 100%;">
+    <img src="https://github.com/user-attachments/assets/97b5d141-325d-4f56-858e-43b7054cbe37" 
+         style="width: 400px; height: auto;">
+</div>
 
- <center>
- <div class = "column">
-    <img src="https://github.com/user-attachments/assets/97b5d141-325d-4f56-858e-43b7054cbe37" width = "400" position = "relative" align ="center">
- </div>
- </center>
 
 For better classification performance, the dataset was created as images with a black background. Then, similar samples of each character were generated using autoencoders.
 
