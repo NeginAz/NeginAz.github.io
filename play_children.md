@@ -11,11 +11,12 @@ title: Collaborative Game for Children with Upper Limb Disabilities
 - Designed success metrics to measure user engagement
 
 ### Setting:
+
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
     <img src="https://github.com/user-attachments/assets/b5f157b5-c93e-4d34-8acd-5362b457e17d" 
-         style="width: 48%; max-width: 100%; height: 400px; object-fit: contain;">
+         style="width: 48%; max-width: 100%; height: 400px; object-fit: contain; background-color: white;">
     <img src="https://github.com/user-attachments/assets/5546f122-0d60-4ae1-bdba-ead2e966dd69" 
-         style="width: 48%; max-width: 100%; height: 400px; object-fit: contain;">
+         style="width: 48%; max-width: 100%; height: 400px; object-fit: contain; background-color: white;">
 </div>
 
 
