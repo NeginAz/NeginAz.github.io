@@ -2,16 +2,14 @@
 title: Optical Character Recognition for old writings
 ---
 
-
-
-
+### Description:
 - Cuneiform script is an ancient writing method used for languages such as Old Persian, Sumerian, and Babylonian.
 - The script consists of 37 characters and is associated with inscriptions from the Achaemenid period.
 - Due to the limited number of experts in ancient languages and the historical importance of these writings, this research focuses on automating the reading and translation of ancient texts.
 - A key objective is to select the most suitable algorithm for data classification, given the scarcity of cuneiform resources.
 - The project evaluates different methods, with the best approach being reported.
 
-<h4>Methods</h4>
+### Methods:
 
 - Collected and preprocessed a dataset of ancient Persian cuneiform characters from historical inscriptions using image processing -tools like OpenCV for noise reduction and thresholding.
 - Extracted character images from inscriptions using template matching algorithms to locate and segment symbols from the background accurately.
@@ -26,9 +24,8 @@ title: Optical Character Recognition for old writings
 
 <div style="display: flex; justify-content: center; width: 100%;">
     <img src="https://github.com/user-attachments/assets/97b5d141-325d-4f56-858e-43b7054cbe37" 
-         style="width: 400px; height: auto;">
+         style="width: 100%; max-width: 1000px; height: auto;">
 </div>
-
 
 For better classification performance, the dataset was created as images with a black background. Then, similar samples of each character were generated using autoencoders.
 
