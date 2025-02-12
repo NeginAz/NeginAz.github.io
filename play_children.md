@@ -12,11 +12,11 @@ title: Collaborative Game for Children with Upper Limb Disabilities
 
 ### Setting:
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div style="display: flex; justify-content: space-between; align-items: stretch; width: 100%; height: 400px;">
     <img src="https://github.com/user-attachments/assets/b5f157b5-c93e-4d34-8acd-5362b457e17d" 
-         style="height: 400px; object-fit: contain; background-color: white;">
+         style="width: 48%; height: 100%; object-fit: cover;">
     <img src="https://github.com/user-attachments/assets/5546f122-0d60-4ae1-bdba-ead2e966dd69" 
-         style="height: 400px; object-fit: contain; background-color: white;">
+         style="width: 48%; height: 100%; object-fit: cover;">
 </div>
 
 
