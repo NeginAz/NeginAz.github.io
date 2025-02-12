@@ -13,6 +13,11 @@ title: Optical Character Recognition for old writings
 
 - Collected and preprocessed a dataset of ancient Persian cuneiform characters from historical inscriptions using image processing -tools like OpenCV for noise reduction and thresholding.
 - Extracted character images from inscriptions using template matching algorithms to locate and segment symbols from the background accurately.
+  <div style="display: flex; justify-content: center; width: 100%;">
+    <img src="https://github.com/user-attachments/assets/97b5d141-325d-4f56-858e-43b7054cbe37" 
+         style="width: 100%; max-width: 1000px; height: auto;">    
+    </div>
+
 - Applied data augmentation techniques (rotation, scaling, translation) using OpenCV to increase dataset size and improve model generalization.
 - Generated synthetic data with Autoencoders to create variations of existing characters, enhancing the dataset and mitigating class imbalance.
 - Designed and implemented Convolutional Neural Networks (CNN) using TensorFlow/Keras to classify cuneiform characters, optimizing architecture for image recognition tasks.
@@ -22,10 +27,7 @@ title: Optical Character Recognition for old writings
 - Evaluated model performance using metrics such as accuracy, confusion matrices, and loss curves to refine models and identify areas for improvement.
 - Developed a complete translation pipeline that integrated character detection and classification to convert ancient Persian cuneiform into modern Persian text.
 
-<div style="display: flex; justify-content: center; width: 100%;">
-    <img src="https://github.com/user-attachments/assets/97b5d141-325d-4f56-858e-43b7054cbe37" 
-         style="width: 100%; max-width: 1000px; height: auto;">
-</div>
+
 
 For better classification performance, the dataset was created as images with a black background. Then, similar samples of each character were generated using autoencoders.
 
