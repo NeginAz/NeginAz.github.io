@@ -28,10 +28,11 @@ navbar-links:
    # - Teleoperated robotic puppet for children with Autism: 
    #- Beautiful Jekyll: "https://beautifuljekyll.com"
    - Robotic Application Interface: "learningdisability"
-   - Interactive Games: "SLT"
+   - Optical Character Recognition for old hand writings: "OCR"
    - Collaborative Game: "play"
    - Roobtic Physical Game: "play_children" 
-   - Optical Character Recognition for old hand writings: "OCR"
+   - Interactive Games: "SLT"
+   
    #- Learn markdown: "https://www.markdowntutorial.com/"
   #Author's home: "https://deanattali.com"
 
