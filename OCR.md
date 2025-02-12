@@ -16,7 +16,7 @@ title: Optical Character Recognition for old writings
   
   <div style="display: flex; justify-content: center; width: 100%;">
     <img src="https://github.com/user-attachments/assets/97b5d141-325d-4f56-858e-43b7054cbe37" 
-         style="width: 100%; max-width: 1000px; height: auto;">    
+      style="width: 100%; max-width: 1000px; height: auto;">    
   </div>
 
 - Applied data augmentation techniques (rotation, scaling, translation) using OpenCV to increase dataset size and improve model generalization.
@@ -24,7 +24,7 @@ title: Optical Character Recognition for old writings
 
   <div style="display: flex; justify-content: center; width: 100%;">
     <img src="https://github.com/user-attachments/assets/9dc0674e-1b45-42f7-98b5-c04e256c5a18" 
-         style="width: 100%; max-width: 1000px; height: auto;">
+      style="width: 100%; max-width: 1000px; height: auto;">
   </div>
 
 - Designed and implemented Convolutional Neural Networks (CNN) using TensorFlow/Keras to classify cuneiform characters, optimizing architecture for image recognition tasks.
