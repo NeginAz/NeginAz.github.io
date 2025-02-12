@@ -90,37 +90,45 @@ subtitle:
 
 
 
+
 <style>
+    body {
+        font-family: Arial, sans-serif;
+    }
+
     .skills-container {
         text-align: center;
-        cursor: pointer;
-        position: relative;
-        width: 100%;
-        max-width: 400px;
+        max-width: 600px;
         margin: auto;
     }
 
-    .skills-image {
-        width: 100px;
-        height: 100px;
-        transition: transform 0.3s ease;
+    .category-btn {
+        display: block;
+        width: 100%;
+        background: #007bff;
+        color: white;
+        font-size: 18px;
+        padding: 10px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        margin: 10px 0;
+        transition: background 0.3s ease, transform 0.2s ease;
     }
 
-    .skills-image:hover {
-        transform: scale(1.1);
+    .category-btn:hover {
+        background: #0056b3;
+        transform: scale(1.05);
     }
 
     .skills-list {
         list-style: none;
         padding: 10px;
+        margin: 0;
         background: rgba(0, 0, 0, 0.8);
         color: white;
         border-radius: 10px;
-        position: absolute;
-        top: 120%;
-        left: 50%;
-        transform: translateX(-50%);
-        width: max-content;
+        text-align: left;
         display: none;
         opacity: 0;
         transition: opacity 0.3s ease, transform 0.3s ease;
@@ -143,34 +151,59 @@ subtitle:
     .show-skills {
         display: block;
         opacity: 1;
-        transform: translateX(-50%) translateY(10px);
+        transform: translateY(5px);
     }
 </style>
 
-<div class="skills-container" onclick="toggleSkills()">
-    <img 
-        src="/assets/img/skills.jpeg" 
-        alt="Skills Icon" 
-        class="skills-image"
-    >
-    <ul class="skills-list" id="skillsList">
+<div class="skills-container">
+    <button class="category-btn" onclick="toggleSkills('interaction')">🎨 Interaction Design</button>
+    <ul class="skills-list" id="interaction">
+        <li>🤖 Human-Robot Interaction</li>
+        <li>📝 Questionnaire Design</li>
+        <li>🛠️ Co-Design</li>
+    </ul>
+
+    <button class="category-btn" onclick="toggleSkills('system')">⚙️ System Development</button>
+    <ul class="skills-list" id="system">
+        <li>🛠️ ROS (Robot Operating System)</li>
         <li>🤖 Robotics Development</li>
         <li>🧠 Artificial Intelligence</li>
-        <li>📊 Machine Learning</li>
-        <li>🐍 Python Programming</li>
-        <li>⚙️ ROS (Robot Operating System)</li>
-        <li>🔌 Embedded Systems</li>
-        <li>📈 Data Analysis</li>
-        <li>👀 Computer Vision</li>
+        <li>🐍 Python</li>
+        <li>💻 C++</li>
+    </ul>
+
+    <button class="category-btn" onclick="toggleSkills('user')">🎭 User Experience</button>
+    <ul class="skills-list" id="user">
+        <li>📝 Questionnaire Design</li>
+    </ul>
+
+    <button class="category-btn" onclick="toggleSkills('input')">🔌 Input Systems</button>
+    <ul class="skills-list" id="input">
+        <li>🛠️ Sensors</li>
+    </ul>
+
+    <button class="category-btn" onclick="toggleSkills('data')">📊 Data Analysis</button>
+    <ul class="skills-list" id="data">
+        <li>📈 Machine Learning</li>
     </ul>
 </div>
 
 <script>
-    function toggleSkills() {
-        const skillsList = document.getElementById('skillsList');
-        skillsList.classList.toggle('show-skills');
+    function toggleSkills(category) {
+        const list = document.getElementById(category);
+        
+        // Close all other lists
+        document.querySelectorAll('.skills-list').forEach(el => {
+            if (el.id !== category) {
+                el.classList.remove('show-skills');
+            }
+        });
+
+        // Toggle the selected category
+        list.classList.toggle('show-skills');
     }
 </script>
+
 
 
 
