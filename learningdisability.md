@@ -47,7 +47,7 @@ title: Interactive Robotic Activities for Children with Learning Disabilities
     <img src="https://github.com/user-attachments/assets/520afd6b-e0b6-4697-ab85-b6f7a2efb9a7" 
          style="height: 300px; max-width: 100%; display: block;">
 </div>
-!-->
+-->
 ### System Architecture: 
 
 <div style="display: flex; justify-content: center; width: 100%;">
