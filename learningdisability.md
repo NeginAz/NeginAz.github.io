@@ -36,9 +36,10 @@ title: Interactive Robotic Activities for Children with Learning Disabilities
  <h5> Qualitative Analysis: </h5>
  
 - Instructor feedback on robot intervention, including ease of use, effectiveness, and student response.
+{% comment %}
 - Analysis of the types of off-task behaviors exhibited by students and preferred redirection strategies.
 
-{% comment %}
+
 
 <div style="display: flex; justify-content: center; width: 100%;">
     <img src="https://github.com/user-attachments/assets/ae23b563-cc42-4e92-b894-d3900f990dd3" 
