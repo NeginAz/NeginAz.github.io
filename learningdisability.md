@@ -37,17 +37,20 @@ title: Interactive Robotic Activities for Children with Learning Disabilities
  
 - Instructor feedback on robot intervention, including ease of use, effectiveness, and student response.
 - Analysis of the types of off-task behaviors exhibited by students and preferred redirection strategies.
+
 <!--
 <div style="display: flex; justify-content: center; width: 100%;">
     <img src="https://github.com/user-attachments/assets/ae23b563-cc42-4e92-b894-d3900f990dd3" 
          style="height: 300px; max-width: 100%; display: block;">
 </div>
-
+-->
+<!--
 <div style="display: flex; justify-content: center; width: 100%;">
     <img src="https://github.com/user-attachments/assets/520afd6b-e0b6-4697-ab85-b6f7a2efb9a7" 
          style="height: 300px; max-width: 100%; display: block;">
 </div>
 -->
+
 ### System Architecture: 
 
 <div style="display: flex; justify-content: center; width: 100%;">
